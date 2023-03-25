@@ -12,7 +12,10 @@ Ich bin Ella. :elephant:<br><br>
 Im Februar 2023 habe ich meine Umschulung zur Fachinformatikerin für Anwendungsentwicklung erfogreich mit der **IHK-Note 2 (91/100 Punkte)** abgeschlossen.<br>
 In der (Berufs-)Schule habe ich erste Einblicke in **HTML**, **CSS**, **JS**, **SQL** und **Python** gewonnen. Zwei Projekte, die ich in dieser Zeit gestartet habe, findet ihr hier.<br>
 In meinem Pflichtpraktikum habe ich wiederum mit **C#** auf **.NET Framework**-Basis gearbeitet. Hier möchte ich nun ansetzen und mein Wissen vertiefen.<br><br>
-***Seid gespannt*** :smiley:
+***Seid gespannt*** :smiley: <br><br><br>
+
+## To Do:<br>
++ Mobile- und Desktop-App mit .NET MAUI
 
 <!--
 **EllaSpacek/EllaSpacek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
