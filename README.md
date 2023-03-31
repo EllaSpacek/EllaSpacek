@@ -15,6 +15,7 @@ In meinem Pflichtpraktikum habe ich wiederum mit **C#** auf **.NET Framework**-B
 ***Seid gespannt*** :smiley: <br><br><br>
 
 ## To Do:<br>
++ exercise with Codewars and LeetCode
 + Mobile- und Desktop-App mit .NET MAUI
 
 <!--
